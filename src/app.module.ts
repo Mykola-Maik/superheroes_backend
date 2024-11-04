@@ -18,7 +18,7 @@ import { Superhero } from './superhero/entities/superhero.entity';
       database: process.env.DATABASE_NAME,
       autoLoadEntities: true,
       entities: [Superhero],
-      synchronize: true,
+      synchronize: process.env.NODE_ENV === 'development',
       ssl: {
         rejectUnauthorized: false,
       },
