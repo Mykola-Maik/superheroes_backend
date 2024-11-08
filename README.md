@@ -1,4 +1,4 @@
-## Technologies/libraries that were used:
+[SuperheroAPI.json](https://github.com/user-attachments/files/17677110/SuperheroAPI.json)## Technologies/libraries that were used:
 
 - Nest.js;
 - Postgresql;
@@ -14,6 +14,8 @@
 - Delete superhero (DELETE) - /superheroes/${superheroId};
 
 ❓ Optionally when you getting all superheroes, you can pass `?page=1&limit=5`
+
+You can import this collection to your Postman or Insomnia - [Uploading SuperheroAPI.json…]()
 
 ## Project setup
 
