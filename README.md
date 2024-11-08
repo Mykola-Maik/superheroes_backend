@@ -15,7 +15,7 @@
 
 ❓ Optionally when you getting all superheroes, you can pass `?page=1&limit=5`
 
-You can import this collection to your Postman or Insomnia - [Uploading SuperheroAPI.json…]()
+You can import this collection to your Postman or Insomnia - [Uploading SuperheroAPI.json…]
 
 ## Project setup
 
